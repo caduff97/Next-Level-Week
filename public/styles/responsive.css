@@ -1,6 +1,7 @@
 @media (max-width:900px) {
     #page-home {
         background-position-x: 90vw;
+        height: auto;
     }
     #page-home .content {
         align-items: center;
@@ -11,7 +12,7 @@
         min-height: 20vh;
         align-items: center;
         justify-items: center;
-        margin-bottom: 15px;
+        margin-bottom: 48px;
         width: 90%;
     }
 
@@ -29,6 +30,9 @@
     #page-home main {
         align-items: center;
         max-width: 90%;
+    }
+    #page-home main a{
+        margin-bottom: 40px;
     }
     #page-search-results .cards {
         grid-template-columns: 1fr;

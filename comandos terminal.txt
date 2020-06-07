@@ -1,0 +1,13 @@
+npm init -y --> instalar servidor
+
+npm install express --> instalar o express
+
+node src/server.js  --> ativar servidor
+
+npm install nodemon --> instalar o nodemon, que monitora alterações no node (servidor)
+
+npm install nunjucks --> package que permite a edição de HTML via servidor
+
+npm install nunju
+
+npm install sqlite3 --> Para instalação do SQLite (banco de dados)
