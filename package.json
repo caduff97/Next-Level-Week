@@ -8,10 +8,10 @@
   "author": "Cadu",
   "dependencies": {
     "express": "^4.22.0",
-    "nunjucks": "^3.2.1",
+    "nunjucks": "^3.2.4",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.22"
   }
 }
